@@ -1,3 +1,6 @@
+
+# NAME: I S ISHITA
+# REG NO: 24003847
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -33,8 +36,6 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -50,12 +51,24 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![image](https://github.com/user-attachments/assets/b03f035a-d4ca-4d40-95d7-9690d1f18f2c)
 
-Developed by: RegisterNumber:*/
 
-**RTL Schematic**
+**TRUTHTABLE:**
 
-**Output/TIMING Waveform**
+![image](https://github.com/user-attachments/assets/c93f20ae-c4e9-41bf-98f8-19679c4ceac1)
+
+
+**RTL:**
+
+![image](https://github.com/user-attachments/assets/9ad5bd73-12c0-4cf1-95be-04ae78fd6728)
+
+
+**WAVEFORM:**
+
+![image](https://github.com/user-attachments/assets/64148578-b187-4a62-bf01-7471c16bc882)
+
+
 
 **Result:**
+Thus the given half adder and half subtractor are implemented using and their operations are verified using Verilog programming.
