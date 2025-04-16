@@ -1,4 +1,7 @@
-# HALF_ADDER_SUBTRACTOR
+# NAME: NISHALINI R 
+# REG NO: 212224040222
+
+# EXP3 HALF ADDER SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -50,12 +53,23 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![77f40722-498e-4a6e-a7ba-2f48906870ca](https://github.com/user-attachments/assets/fbe7ca6a-49be-4d68-9a1a-d913e6f6077e)
 
-Developed by: RegisterNumber:*/
 
-**RTL Schematic**
+**Truth Table**
 
-**Output/TIMING Waveform**
+![Screenshot 2025-04-16 091304](https://github.com/user-attachments/assets/82a73513-cf7b-4f86-bea5-7da5d39bc1d8)
+
+
+![Screenshot 2025-04-16 091320](https://github.com/user-attachments/assets/52bb5934-8944-4c37-b034-d3acd06696b0)
+
+**RTL**
+
+![c029c3f3-1f0b-4626-8288-58ad22add75e](https://github.com/user-attachments/assets/a4490a23-e90d-48a3-a148-64103a3fb824)
+
+**Waveform**
+
+![d2af973b-c869-4df7-96cc-6bf867486834](https://github.com/user-attachments/assets/84d638ee-995d-477c-b509-b8189ec0ef80)
 
 **Result:**
+ The Implementation-of-Half-Adder-and-Half Subtractor-circuit is verified successfully.
