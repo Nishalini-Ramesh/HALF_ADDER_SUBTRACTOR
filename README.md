@@ -1,6 +1,5 @@
-
-# NAME: I S ISHITA
-# REG NO: 24003847
+# NAME: NISHALINI R
+# REG NO: 212224040222
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -56,8 +55,10 @@ Figure -02 HALF Subtractor
 
 **TRUTHTABLE:**
 
-![image](https://github.com/user-attachments/assets/c93f20ae-c4e9-41bf-98f8-19679c4ceac1)
+![Screenshot 2025-04-16 091304](https://github.com/user-attachments/assets/73c83e48-91f7-458b-8c31-3e8b48a6d7a1)
 
+
+![Screenshot 2025-04-16 091320](https://github.com/user-attachments/assets/38ff5b9f-a7f8-42e8-ae2c-f9d92ca9c85a)
 
 **RTL:**
 
@@ -71,4 +72,5 @@ Figure -02 HALF Subtractor
 
 
 **Result:**
+
 Thus the given half adder and half subtractor are implemented using and their operations are verified using Verilog programming.
